@@ -1,0 +1,5 @@
+use-go-arigo
+*.exe
+*.iso
+*.aria2
+*.log
